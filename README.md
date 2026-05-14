@@ -1,7 +1,22 @@
-# Career-Ops
+# Project Contributions — Ashok Chowdary
 
-[English](README.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [한국어](README.ko-KR.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [简体中文](README.cn.md) | [繁體中文](README.zh-TW.md)
+This project was independently designed and developed by Ashok Chowdary.
 
+## Core Contributions
+- Architected AI-powered job intelligence workflow
+- Integrated Ollama local LLM models
+- Developed resume parsing pipeline
+- Built ATS compatibility scoring
+- Implemented multi-source job aggregation
+- Added semantic filtering and ranking
+- Designed Streamlit UI/UX workflow
+- Created automation for fresh USA job discovery
+
+## Future Roadmap
+- AI interview preparation
+- Workday automation
+- AI recruiter assistant
+- Personalized career intelligence
 <p align="center">
   <a href="https://x.com/santifer"><img src="docs/hero-banner.jpg" alt="Career-Ops — Multi-Agent Job Search System" width="800"></a>
 </p>
